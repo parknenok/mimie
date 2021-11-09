@@ -1,0 +1,11 @@
+[debug] [2021-11-09T08:13:20.462Z] ----------------------------------------------------------------------
+[debug] [2021-11-09T08:13:20.464Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\grenzenlos\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2021-11-09T08:13:20.464Z] CLI Version:   9.6.1
+[debug] [2021-11-09T08:13:20.464Z] Platform:      win32
+[debug] [2021-11-09T08:13:20.464Z] Node Version:  v14.17.4
+[debug] [2021-11-09T08:13:20.465Z] Time:          Tue Nov 09 2021 16:13:20 GMT+0800 (China Standard Time)
+[debug] [2021-11-09T08:13:20.465Z] ----------------------------------------------------------------------
+[debug] [2021-11-09T08:13:20.465Z] 
+[debug] [2021-11-09T08:13:20.473Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2021-11-09T08:13:21.392Z] <<< [apiv2][status] GET https://firebase-public.firebaseio.com/cli.json 200
+[debug] [2021-11-09T08:13:21.392Z] <<< [apiv2][body] GET https://firebase-public.firebaseio.com/cli.json {"cloudBuildErrorAfter":1594252800000,"cloudBuildWarnAfter":1590019200000,"defaultNode10After":1594252800000,"minVersion":"3.0.5","node8DeploysDisabledAfter":1613390400000,"node8RuntimeDisabledAfter":1615809600000,"node8WarnAfter":1600128000000}
